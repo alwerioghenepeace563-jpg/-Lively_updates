@@ -1,0 +1,10 @@
+{
+  "app": "JARVIS",
+  "packageId": "com.jarvis.personalai",
+  "versionCode": 0,
+  "versionName": "0.0.0",
+  "minimumSupportedVersionCode": 0,
+  "apkUrl": "https://raw.githubusercontent.com/alwerioghenepeace563-jpg/-Lively_updates/main/jarvis/JARVIS.apk",
+  "releaseNotes": "Lively Updates feed initialized. A signed release will be published after update signing is configured.",
+  "publishedAt": null
+}
