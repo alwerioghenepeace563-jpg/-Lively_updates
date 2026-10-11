@@ -1,10 +1,10 @@
 {
   "app": "JARVIS",
   "packageId": "com.jarvis.personalai",
-  "versionCode": 1095,
-  "versionName": "1.0.95",
+  "versionCode": 1096,
+  "versionName": "1.0.96",
   "minimumSupportedVersionCode": 0,
   "apkUrl": "https://raw.githubusercontent.com/alwerioghenepeace563-jpg/-Lively_updates/main/jarvis/JARVIS.apk",
-  "releaseNotes": "JARVIS Android update from commit d5ed15b",
-  "publishedAt": "2026-10-11T13:47:50.917660+00:00"
+  "releaseNotes": "JARVIS Android update from commit 571d20b",
+  "publishedAt": "2026-10-11T13:47:57.493425+00:00"
 }
