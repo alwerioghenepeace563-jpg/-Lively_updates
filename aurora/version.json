@@ -1,10 +1,10 @@
 {
   "app": "AURORA",
   "packageId": "com.aurora.assistant",
-  "versionCode": 1126,
-  "versionName": "1.0.126",
+  "versionCode": 1130,
+  "versionName": "1.0.130",
   "minimumSupportedVersionCode": 0,
   "apkUrl": "https://raw.githubusercontent.com/alwerioghenepeace563-jpg/-Lively_updates/main/aurora/AURORA.apk",
-  "releaseNotes": "AURORA Android update with verified package and stable signing from commit 4b2803d",
-  "publishedAt": "2026-10-18T05:44:15Z"
+  "releaseNotes": "AURORA Android update with verified package and stable signing from commit 1cb570c",
+  "publishedAt": "2026-10-18T05:52:41Z"
 }
